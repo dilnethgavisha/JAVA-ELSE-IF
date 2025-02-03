@@ -8,6 +8,9 @@ public class Else_if{
         }else{
             System.out.println("Good evening");
             System.out.println("Have a great night");
+
+            System.out.println("Game Over");
+            System.out.println("You are the winner");
         }
     }
 }
