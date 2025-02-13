@@ -11,6 +11,7 @@ public class Else_if{
 
             System.out.println("Game Over");
             System.out.println("You are the winner");
+            System.out.println("You are the winner");
         }
     }
 }
